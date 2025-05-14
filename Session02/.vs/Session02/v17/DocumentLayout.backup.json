@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\session02\\session02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|solutionrelative:session02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\session02\\session02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|solutionrelative:session02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\session02\\session02\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|solutionrelative:session02\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\session02\\session02\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29FB2F2D-D6B9-4508-BDCA-3D50634F99E4}|Session02\\Session02.csproj|solutionrelative:session02\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Session02\\Models\\Product.cs",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Models\\Product.cs",
+              "RelativeToolTip": "Session02\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:18:44.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Session02\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Session02\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:11:48.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Views\\Product\\Products.cshtml",
+              "RelativeDocumentMoniker": "Session02\\Views\\Product\\Products.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Views\\Product\\Products.cshtml",
+              "RelativeToolTip": "Session02\\Views\\Product\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T04:07:40.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Session02\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\Session02\\Session02\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Session02\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T04:06:01.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
