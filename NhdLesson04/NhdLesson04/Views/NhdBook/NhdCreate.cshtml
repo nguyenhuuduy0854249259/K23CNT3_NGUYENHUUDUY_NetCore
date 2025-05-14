@@ -1,0 +1,36 @@
+﻿@model NhdLesson04.Models.NhdBook
+
+@{
+    ViewData["Title"] = "Thêm sách bút ký";
+}
+
+<h2>Thêm sách bút ký</h2>
+
+<form asp-action="NhdCreateSubmit" method="post">
+    <div>
+        <label>Mã sách</label>
+        <input asp-for="NhdId" class="form-control" />
+    </div>
+    <div>
+        <label>Tiêu đề</label>
+        <input asp-for="NhdTitle" class="form-control" />
+    </div>
+    <div>
+        <label>Mô tả</label>
+        <textarea asp-for="NhdDescription" class="form-control"></textarea>
+    </div>
+    <div>
+        <label>Ảnh (đường dẫn)</label>
+        <input asp-for="NhdImage" class="form-control" />
+    </div>
+    <div>
+        <label>Giá</label>
+        <input asp-for="NhdPrice" class="form-control" />
+    </div>
+    <div>
+        <label>Số trang</label>
+        <input asp-for="NhdPage" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Thêm</button>
+</form>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<NhdLesson04.Models.NhdBook>
+@{
+    ViewData["Title"] = "Thông tin các cuốn sách";
+}
+<h2>@ViewData["Title"]</h2>
+
+<p><a class="btn btn-success" href="/NhdBook/NhdCreate">Thêm mới</a></p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Price</th>
+            <th>Page</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.NhdId</td>
+                <td>@book.NhdTitle</td>
+                <td>@book.NhdDescription</td>
+                <td><img src="@book.NhdImage" width="80" /></td>
+                <td>@book.NhdPrice</td>
+                <td>@book.NhdPage</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" href="/NhdBook/NhdEdit?id=@book.NhdId">Sửa</a>
+                    <a class="btn btn-danger btn-sm" href="/NhdBook/NhdDelete?id=@book.NhdId" onclick="return confirm('Xác nhận xóa?');">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
