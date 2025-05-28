@@ -1,0 +1,45 @@
+﻿@model List<NhdLab06.Models.NhdEmployee>
+@{
+    ViewBag.Title = "Danh sách nhân viên";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between justify-content-center">
+        <h2 class="text-center mb-4" > Danh sách nhân viên</h2>
+        <a href="/NhdEmployee/Nhdcreate" class="btn btn-prinmary"> Thêm mới</a>
+    </div>
+
+
+    <table class="table table-bordered table-hover table-striped">
+        <thead class="table-dark text-center">
+            <tr>
+                <th>Họ tên</th>
+                <th>Ngày sinh</th>
+                <th>Email</th>
+                <th>Điện thoại</th>
+                <th>Lương</th>
+                <th>Trạng thái</th>
+                <th>Thao tác</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var nhdEmp in Model)
+            {
+                <tr>
+                    <td>@nhdEmp.NhdName</td>
+                    <td>@nhdEmp.NhdBirthDay.ToShortDateString()</td>
+                    <td>@nhdEmp.NhdEmail</td>
+                    <td>@nhdEmp.NhdPhone</td>
+                    <td>@nhdEmp.NhdSalary</td>
+                    <td>@(nhdEmp.NhdStatus ? "Hoạt động" : "Không hoạt động")</td>
+                    <td>
+                        <a asp-action="NhdEdit" asp-route-id="@nhdEmp.NhdId" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="NhdDelete" asp-route-id="@nhdEmp.NhdId" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

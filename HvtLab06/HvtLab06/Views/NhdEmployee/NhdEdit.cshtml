@@ -1,0 +1,46 @@
+﻿@model NhdLab06.Models.NhdEmployee
+
+@{
+    ViewBag.Title = "Chỉnh sửa nhân viên";
+}
+
+<h2>Chỉnh sửa nhân viên</h2>
+
+<form asp-action="NhdEditPUT" method="post">
+    <input type="hidden" asp-for="NhdId" />
+
+    <div class="input-group mb-3">
+        <span class="input-group-text">Họ tên</span>
+        <input asp-for="NhdName" class="form-control" />
+    </div>
+
+    <div class="input-group mb-3">
+        <span class="input-group-text">Ngày sinh</span>
+        <input asp-for="NhdBirthDay" type="date" class="form-control" />
+    </div>
+
+    <div class="input-group mb-3">
+        <span class="input-group-text">Email</span>
+        <input asp-for="NhdEmail" class="form-control" />
+    </div>
+
+    <div class="input-group mb-3">
+        <span class="input-group-text">Số điện thoại</span>
+        <input asp-for="NhdPhone" class="form-control" />
+    </div>
+
+    <div class="input-group mb-3">
+        <span class="input-group-text">Lương</span>
+        <input asp-for="NhdSalary" type="number" class="form-control" />
+    </div>
+
+    <div class="input-group mb-3">
+        <span class="input-group-text">Trạng thái</span>
+        <div class="form-control">
+            <input asp-for="NhdStatus" type="checkbox" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">Cập nhật</button>
+    <a asp-action="NhdIndex" class="btn btn-secondary ms-2">Quay lại</a>
+</form>
