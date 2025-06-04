@@ -1,0 +1,68 @@
+﻿@model IEnumerable<NhdLesson07.Models.NhdEmployee>
+@{
+    ViewData["Title"] = "DANH SÁCH NHÂN VIÊN";
+}
+    <h1>DANH SÁCH NHÂN VIÊN</h1>
+<p>
+    <a asp-action="NhdCreate" class="btn btn-primary">thêm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdBirthDay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdBirthDay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "NhdEdit", new {  id=item.NhdId  }) |
+                @Html.ActionLink("Details", "NhdDetails", new { id=item.NhdId }) |
+                    @Html.ActionLink("Delete", "NhdDelete", new { id = item.NhdId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

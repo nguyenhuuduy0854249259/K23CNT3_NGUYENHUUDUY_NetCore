@@ -1,0 +1,59 @@
+﻿@model NhdLesson07.Models.NhdEmployee
+
+@{
+    ViewData["Title"] = "Sửa thông tin nhân viên";
+}
+
+<h1>Sửa thông tin nhân viên</h1>
+
+<hr />
+<div class="row" >
+    <div class="col-md-4">
+        <form asp-action="NhdEdit" asp-route-id="@Model.NhdId">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="NhdId" class="control-label"></label>
+                <input asp-for="NhdId" class="form-control" />
+                <span asp-validation-for="NhdId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhdName" class="control-label"></label>
+                <input asp-for="NhdName" class="form-control" />
+                <span asp-validation-for="NhdName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhdBirthDay" class="control-label"></label>
+                <input asp-for="NhdBirthDay" class="form-control" />
+                <span asp-validation-for="NhdBirthDay" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhdEmail" class="control-label"></label>
+                <input asp-for="NhdEmail" class="form-control" />
+                <span asp-validation-for="NhdEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhdPhone" class="control-label"></label>
+                <input asp-for="NhdPhone" class="form-control" />
+                <span asp-validation-for="NhdPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NhdSalary" class="control-label"></label>
+                <input asp-for="NhdSalary" class="form-control" />
+                <span asp-validation-for="NhdSalary" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="NhdStatus" /> @Html.DisplayNameFor(model => model.NhdStatus)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="NhdIndex">Back to List</a>
+</div>
+
