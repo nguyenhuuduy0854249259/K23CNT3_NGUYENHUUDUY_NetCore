@@ -1,0 +1,93 @@
+﻿@model IEnumerable<Duy08.Models.Account>
+
+@{
+    ViewData["Title"] = "DANH SÁCH NHÂN VIÊN";
+}
+<h1>DANH SÁCH NHÂN VIÊN</h1>
+<p>
+    <a asp-action="NhdCreate" class="btn btn-primary">thêm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdMaSinhVien)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdHoVaTen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdDienThoai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdDiaChi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdAnhDaiDien)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdNgaySinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdGioiTinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdMatKhau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NhdFacebook)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdMaSinhVien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdHoVaTen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdDienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdDiaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdAnhDaiDien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdNgaySinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdGioiTinh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdMatKhau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NhdFacebook)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "NhdEdit", new { id = item.NhdId }) |
+                    @Html.ActionLink("Details", "NhdDetails", new { id = item.NhdId }) |
+                    @Html.ActionLink("Delete", "NhdDelete", new { id = item.NhdId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Duy08.props" />
+</Project>

@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\controllers\\nhdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\controllers\\nhdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\models\\nhdemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\models\\nhdemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\controllers\\nhdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\controllers\\nhdemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdhome\\nhdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdhome\\nhdindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdhome\\nhdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdhome\\nhdabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\shared\\_nhdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\shared\\_nhdlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\shared\\_nhdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\shared\\_nhdnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhdedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhddelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\nhdemployee\\nhdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\nhdemployee\\nhdcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|d:\\net core\\k23cnt3_nguyenhuuduy_netcore\\nhdlesson07\\nhdlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1E34CD-16E7-4D17-89C8-F85BD3F66368}|NhdLesson07\\NhdLesson07.csproj|solutionrelative:nhdlesson07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,28 +62,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhdEmployee.cs",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Models\\NhdEmployee.cs",
+              "RelativeDocumentMoniker": "NhdLesson07\\Models\\NhdEmployee.cs",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Models\\NhdEmployee.cs",
+              "RelativeToolTip": "NhdLesson07\\Models\\NhdEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T03:22:09.124Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NhdDelete.cshtml",
-              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
-              "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
-              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
-              "RelativeToolTip": "NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "NhdAbout.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdHome\\NhdAbout.cshtml",
+              "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdHome\\NhdAbout.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdHome\\NhdAbout.cshtml",
+              "RelativeToolTip": "NhdLesson07\\Views\\NhdHome\\NhdAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T03:35:15.864Z",
+              "WhenOpened": "2025-06-10T03:54:10.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "NhdIndex.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdHome\\NhdIndex.cshtml",
+              "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdHome\\NhdIndex.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdHome\\NhdIndex.cshtml",
+              "RelativeToolTip": "NhdLesson07\\Views\\NhdHome\\NhdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T03:54:09.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhdIndex.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
+              "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
+              "RelativeToolTip": "NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T02:13:39.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhdEmployeeController.cs",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Controllers\\NhdEmployeeController.cs",
+              "RelativeDocumentMoniker": "NhdLesson07\\Controllers\\NhdEmployeeController.cs",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Controllers\\NhdEmployeeController.cs",
+              "RelativeToolTip": "NhdLesson07\\Controllers\\NhdEmployeeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwJoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:03:24.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NhdDetails.cshtml",
               "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdDetails.cshtml",
               "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdDetails.cshtml",
@@ -76,7 +148,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "_NhdLayout.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
+              "RelativeDocumentMoniker": "NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
+              "RelativeToolTip": "NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T01:37:47.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_NhdNavBar.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\Shared\\_NhdNavBar.cshtml",
+              "RelativeDocumentMoniker": "NhdLesson07\\Views\\Shared\\_NhdNavBar.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\Shared\\_NhdNavBar.cshtml",
+              "RelativeToolTip": "NhdLesson07\\Views\\Shared\\_NhdNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-10T03:10:00.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "NhdEdit.cshtml",
               "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdEdit.cshtml",
               "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdEdit.cshtml",
@@ -89,7 +187,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "NhdDelete.cshtml",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
+              "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
+              "RelativeToolTip": "NhdLesson07\\Views\\NhdEmployee\\NhdDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-04T03:35:15.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "NhdCreate.cshtml",
               "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdCreate.cshtml",
               "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdCreate.cshtml",
@@ -102,46 +213,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NhdEmployeeController.cs",
-              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Controllers\\NhdEmployeeController.cs",
-              "RelativeDocumentMoniker": "NhdLesson07\\Controllers\\NhdEmployeeController.cs",
-              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Controllers\\NhdEmployeeController.cs",
-              "RelativeToolTip": "NhdLesson07\\Controllers\\NhdEmployeeController.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAswJQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Program.cs",
+              "RelativeDocumentMoniker": "NhdLesson07\\Program.cs",
+              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Program.cs",
+              "RelativeToolTip": "NhdLesson07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:03:24.515Z",
+              "WhenOpened": "2025-06-10T03:08:26.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NhdIndex.cshtml",
-              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
-              "RelativeDocumentMoniker": "NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
-              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
-              "RelativeToolTip": "NhdLesson07\\Views\\NhdEmployee\\NhdIndex.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T02:13:39.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_NhdLayout.cshtml",
-              "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
-              "RelativeDocumentMoniker": "NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
-              "ToolTip": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
-              "RelativeToolTip": "NhdLesson07\\Views\\Shared\\_NhdLayout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-04T01:37:47.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Net Core\\K23CNT3_NGUYENHUUDUY_NetCore\\NhdLesson07\\NhdLesson07\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "NhdLesson07\\Views\\_ViewStart.cshtml",
